@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-color{
+    background-color: #E76F51;
+}
+
+.another-btn-color{
+    color: #E77C40;
+    border-color: #E77C40;
+}
+
+.nav-banner-bg-color{
+    background-color: #264653;
+}
+
+.banner-text-color{
+    color: #E0E0E0;
+}
+
+.common-text-color{
+    color: #0D0925;
+}
+
+.best-bike-text-color{
+    color: #E76F51;
+}
+
+.text-color-accordion{
+    color: #7E848C;
+}
+
+.text-bottom-border{
+    border: 1px solid #E76F51;
+    width: 58px;
+    margin: auto;
+}
+
+.bike-black-white{
+    filter: grayscale(100%);
+}
+
+
+.text-color-card{
+    color:#6C6C6C;
+    letter-spacing: 1px;
+}
+
+.clients-text-color,
+.extra-text-color{
+    color: #E76F51;
+}
+
+.client-card-text-color{
+    color: #6C6C6C;
+    letter-spacing: 1px;
+}
+
+.filled-star{
+    color: #E77C40;
+}
+
+.empty-star{
+    color: #E77C40;
+}
+
+
+.bike-category-bg{
+    border-radius: 10px;
+    background-image: linear-gradient(90deg, #1f1a1a, #E77C40);
+}
+
+.footer-bg-color{
+    background-color: #0B0D17;
+}
+
+.footer-items{
+    font-size: 12px;
+    letter-spacing: 1px;
+}
